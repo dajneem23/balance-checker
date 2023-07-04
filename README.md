@@ -6,3 +6,7 @@
 2. Install the dependencies
    1.  `npm install`
 3. Run the application using scripts
+
+
+
+## Author: @deltaBalances
